@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I've studied computing engineering, and I love developing :) currently working as a semi-senior Fullstack dev.
+I've studied computing engineering, and I love coding :) currently working as a semi-senior Fullstack dev (front-end>back-end).
 
 * 🌍  I'm based in Santiago, Chile
 * ✉️  You can contact me at [lucas\_repetto@hotmail.com](mailto:lucas_repetto@hotmail.com)

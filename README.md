@@ -8,7 +8,7 @@ I've studied computing engineering, and I love developing :) currently working a
 
 * 🌍  I'm based in Santiago, Chile
 * ✉️  You can contact me at [lucas\_repetto@hotmail.com](mailto:lucas_repetto@hotmail.com)
-* 🚀  I'm currently working on [Transbank](http://publico.transbank.cl)
+* 🚀  I'm currently working at [Transbank](http://publico.transbank.cl)
 * 🧠  I'm learning ReactJS
 
 ### Skills
